@@ -2,7 +2,7 @@
 
 [Jinpei Guo](https://jp-guo.github.io/), [Yifei Ji](https://github.com/Niax23/), [Zheng Chen](https://zhengchen1999.github.io/), [Yufei Wang](https://wyf0912.github.io/), [Sizhuo Ma](https://sizhuoma.netlify.app/), [Yong Guo](https://www.guoyongcs.com/), [Yulun Zhang](http://yulunzhang.com/), and [Jian Wang](https://jianwang-cmu.github.io/), "Towards Redundancy Reduction in Diffusion Models for Efficient Video Super-Resolution", arXiv, 2025
 
-[[project page]](https://oasis.github.io/) [[paper](https://arxiv.org/abs/2509.23980)] [[supplementary material](https://github.com/jp-guo/OASIS/releases/tag/v1)]
+[[project page]](https://jp-guo.github.io/oasis.github.io/) [[paper](https://arxiv.org/abs/2509.23980)] [[supplementary material](https://github.com/jp-guo/OASIS/releases/tag/v1)]
 
 #### 🔥🔥🔥 News
 
@@ -56,7 +56,7 @@
 </p>
 </details>
 
-✨ **For more visual results, visit our [project page](https://oasis.github.io/)!** ✨
+✨ **For more visual results, visit our [project page](https://jp-guo.github.io/oasis.github.io/)!** ✨
 
 
 ## <a name="citation"></a>📎 Citation
