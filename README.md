@@ -66,7 +66,7 @@ If you find the code helpful in your research or work, please cite our work.
 ```
 @article{guo2025towards,
     title={Towards Redundancy Reduction in Diffusion Models for Efficient Video Super-Resolution},
-    author={Jinpei Guo, Yifei Ji, Zheng Chen, Yufei Wang, Sizhuo Ma, Yong Guo, Yulun Zhang, Jian Wang},
+    author={Guo, Jinpei and Ji, Yifei and Chen, Zheng and Wang, Yufei and Ma, Sizhuo and Guo, Yong and Zhang, Yulun and Wang, Jian},
     journal={arXiv preprint arXiv:2509.23980},
     year={2025}
 }
